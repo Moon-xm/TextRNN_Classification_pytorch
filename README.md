@@ -1,0 +1,2 @@
+# TextRNN_Classification_pytorch
+使用TextRNN完成文本分类
